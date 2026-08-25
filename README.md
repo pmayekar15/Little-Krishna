@@ -61,9 +61,3 @@ GLOW_STRENGTH      = 1.6      # Bloom intensity
 REFLECTION_HEIGHT_RATIO = 0.28 # Bottom reflection height (0.0 to disable)
 
 ```
-
-
-
-```
-
-```
